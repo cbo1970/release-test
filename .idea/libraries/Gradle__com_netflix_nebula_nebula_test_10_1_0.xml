@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.nebula:nebula-test:10.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.nebula/nebula-test/10.1.0/979d22dfeeac99dbeb72a68f677c4d0106d16e04/nebula-test-10.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.nebula/nebula-test/10.1.0/e41a3411e8d718fc689fbc9446cf60773d606cc5/nebula-test-10.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
